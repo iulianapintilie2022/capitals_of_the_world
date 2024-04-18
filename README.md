@@ -2,10 +2,15 @@
 
 
  -HTML and CSS only
+ 
  -CSS Animations and Transitions
+ 
  -CSS Flexbox and Grid
+ 
  -UI & UX
+ 
  -Responsive Interface
+ 
  -Google Fonts
 
 
